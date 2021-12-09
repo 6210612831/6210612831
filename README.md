@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Pattana Sapphanachai (A)
 
 <!--
 **6210612831/6210612831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Web applications 🌐
+
+### Specialize in:
+
+- Backend development
+- Web applications
+
+### Languages and Tools:
+
+- Python
+  - Django
+- PHP
+- Java
+- Javascript
+- CSS
+
+### 📫 Reach me here:
+
+> 📧 Email : <day25436@hotmail.co.th> or <monday25436@gmail.com>
+> 📱 Phone : 083-0610124
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=6210612831&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
