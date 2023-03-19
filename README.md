@@ -34,15 +34,18 @@ Here are some ideas to get you started:
 ### My Projects:
 
 - Django Project
+  - [APIs Developer For Faculty of Engineering, Thammasat University] (https://restapi.engr.tu.ac.th/)
+  - [Grade Announcement For Faculty of Engineering, Thammasat University] (https://grade.engr.tu.ac.th/)
   - [hahoor](https://github.com/6210612831/hahoor)
   - [schedule_me](https://github.com/6210612831/schedule_me)
   - [InternshipEngr](https://github.com/6210612831/InternshipEngr)
+
 - PHP
   - [Grivato](https://github.com/6210612831/PHP_Project/tree/main/grivato/project)
 
 ### 📫 Reach me here:
 
-> 📧 Email : <day25436@hotmail.co.th> or <monday25436@gmail.com>
+> 📧 Email : <pattana.sapphanachai@gmail.com> or <day25436@hotmail.co.th>
 > <br>
 > 📱  Phone : 083-0610124
 
