@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ### My Projects:
 
 - Django Project
-  - [APIs_Developer_For_Faculty_of_Engineering,_Thammasat_University] (https://restapi.engr.tu.ac.th/)
-  - [Grade_Announcement_For_Faculty_of_Engineering,_Thammasat_University] (https://grade.engr.tu.ac.th/)
+  - [APIs Developer For Faculty of Engineering, Thammasat University](https://restapi.engr.tu.ac.th/)
+  - [Grade Announcement For Faculty of Engineering, Thammasat University](https://grade.engr.tu.ac.th/)
   - [hahoor](https://github.com/6210612831/hahoor)
   - [schedule_me](https://github.com/6210612831/schedule_me)
   - [InternshipEngr](https://github.com/6210612831/InternshipEngr)
